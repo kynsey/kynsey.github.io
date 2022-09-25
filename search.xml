@@ -15,8 +15,54 @@
     </entry>
     
     
+    
+    <entry>
+      <title></title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="vim-使用技巧"><a href="#vim-使用技巧" class="headerlink" title="vim 使用技巧"></a>vim 使用技巧</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">vim快速删除当前所在行光标之前到行首的内容 d 0</span><br><span class="line"></span><br><span class="line">vim快速删除当前所在行光标到行尾的内容 d $ 或 D</span><br><span class="line"></span><br><span class="line">vim快速删除包括当前所在行和它上面所有行的内容 d gg</span><br><span class="line"></span><br><span class="line">vim快速删除当前所在行的下面所有行的内容 d G</span><br></pre></td></tr></table></figure><div class="tip "><p>default</p></div><div class="tip info"><p>info</p></div><div class="tip success"><p>success</p></div><div class="tip error"><p>error</p></div><div class="tip warning"><p>warning</p></div><div class="tip bolt"><p>bolt</p></div><div class="tip ban"><p>ban</p></div><div class="tip home"><p>home</p></div><div class="tip sync"><p>sync</p></div><div class="tip cogs"><p>cogs</p></div><div class="tip key"><p>key</p></div><div class="tip bell"><p>bell</p></div><div class="tip fa-atom"><p>自定义font awesome图标</p></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
+    
+    
+    <entry>
+      <title>我是分类页</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我是友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我是标签页</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
   
 </search>
